@@ -1,4 +1,4 @@
-# ThreeJS House
+# Prepositions Visualization
 Experimentation with three js 3D-modeling library. Orbit controls allow for movement around the space. (Take a look inside the house!)
 
 To launch locally:
